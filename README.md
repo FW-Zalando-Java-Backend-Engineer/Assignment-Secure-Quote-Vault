@@ -89,7 +89,6 @@ Inside `src/main/java/org/example/secure_quote_vault`, create the following pack
 
 #### `config`
 
-* JWT token filter
 * Security configuration
 * Bean config for RestTemplate
 
