@@ -118,6 +118,7 @@ Inside `src/main/java/org/example/secure_quote_vault`, create the following pack
 #### `repository`
 
 * `UserRepository` extends `MongoRepository`
+* `QuoteRepository` extends `MongoRepository`
 
 #### `security`
 
